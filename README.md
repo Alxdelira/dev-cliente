@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-<img src="/assets/img1.png" alt="imagem do aplicativo"/>
+<img src="public/assets/img1.png" alt="imagem do aplicativo"/>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
